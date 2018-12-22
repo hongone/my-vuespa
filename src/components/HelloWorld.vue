@@ -1,6 +1,6 @@
 <template>
   <div class="hello-bem hello-bem--init">
-    <h2>{{msg}}</h2>
+    <h1>{{msg}}</h1>
     <button class="hello-bem__btn" @click="add()">加1 +1</button>
     <button class="hello-bem__btn" @click="minus()">减1 -1</button>
   </div>
